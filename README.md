@@ -2,7 +2,7 @@
 
 Firstly Go the given URL and copy the content from the terraform docs of aws_iam_roles and make changes to it according to you:
 
-[S3 Bucket File Content ] (https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/iam_role)
+[IAM role File Content ] (https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/iam_role)
 
 Now one should have a seperate directory and under that directory create one file and named it as:
 
